@@ -1,13 +1,8 @@
-# phn-exchange-docs
+# phn-crm-docs
 
- https://phn-exchange.readthedocs.io/en/latest/ 
+https://phn-crm.readthedocs.io/en/latest/ 
  
-
-## how to install
-
-download python
-`pip install mkdocs`
-see live preview: `mkdocs serve`
+This help centre is designed for PHN staff who have already bought the PHN CRM SAAS. It is not intended as a 'sales pitch'.
 
 ## How to edit
 

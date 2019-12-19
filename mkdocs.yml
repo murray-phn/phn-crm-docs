@@ -11,7 +11,7 @@ nav:
 - FAQ: 'faq.md'
 - Components: 'components.md'
 - Tracking Activity:
-    - Dynamics 365 App for Outlook: 'tracking/activity-tracking.md'
+    - Dynamics 365 App for Outlook: 'dynamics-for-outlook.md'
     - Activity Tracking: 'tracking/activity-tracking.md'
 - Entities: 
     - Account: 'entities/account.md'
@@ -39,8 +39,10 @@ nav:
     - Software Allocation: 'entities/software-allocation.md'
     - Task: 'entities/task.md'
     - User: 'entities/user.md'
-- Versioning: 'versioning.md'
+- Auditing: 'auditing.md'
+- Duplication Detection: 'duplicate-detection.md'
 - Roadmap: 'roadmap.md'
+- Versioning: 'versioning.md'
 
 markdown_extensions:
     - toc:
