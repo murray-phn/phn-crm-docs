@@ -2,7 +2,8 @@ site_name: PHN CRM Help Centre
 
 theme: readthedocs
 extra_css: 
-    - ../css/extra.css
+    ../css/extra.css
+    css/extra.css
 
 nav:
 - Home: 'index.md'
