@@ -66,3 +66,16 @@ This provides several significant benefits:
 - Consistent, accurate data: Suburbs are not misspelled. Accounts are not placed in the wrong areas which means they can miss out on funding.
 
 - See total number of Accounts within an area.
+
+
+# Additional Features
+
+Instant Search: 
+
+- Search for records in CRM.
+- Shows results as you type.
+- Includes entities such as Accounts, Contacts, Users, Risks, Controlled Documents, Legislation, Software, Devices, etc.
+
+EULAs and Agreements:
+
+- Create EULAs and keep track of which Accounts signed these EULAs and when they expire.
