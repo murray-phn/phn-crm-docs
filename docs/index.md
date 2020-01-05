@@ -1,5 +1,7 @@
 # Welcome to the PHN CRM Help Centre
 
-This help centre will guide you on how to use your 'PHN CRM' web application.
+This help centre will guide you on how to use your 'PHN CRM' web application built with Microsoft Dynamics 365 CRM.
 
-Use the navigation on the left to go to a specific area, or search for something in-particular using the search box (top-left).
+Looking for something inparticular?
+- Use the navigation on the left to find a topic
+- Search using the search box (top-left)
