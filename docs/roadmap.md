@@ -5,12 +5,19 @@
 ## 2020 Q2
 
 Interactive Map Tool: 
+
 - Visualize Accounts and Contacts 
+
 - Filter based on Account Type or Cotnact Type (Practice, hospital, pharmacy) 
+
 - Filter based on location (e.g. LGAs, distance km from point, Postcode) 
+
 - Filter based on select fields (e.g. My Health Record Registered) 
+
 - Zoom and pan 
+
 - Overlay SA4, SA3, LGA boundaries
+
 - Export filtered results as CSV, Excel, PDF, PNG/JPG 
 
 ## 2020 Q3 
