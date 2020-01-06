@@ -12,7 +12,7 @@ nav:
 - Training: 'training.md'
 - Dynamics 365 App for Outlook: 'app-for-outlook.md'
 - Components: 'components.md'
-- Entities: 
+- Entities: 'entities.md'
     - Account: 'entities/account.md'
     - Activity Category: 'entities/activity-category.md'
     - Agreement: 'entities/agreement.md'
