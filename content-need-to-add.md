@@ -22,8 +22,6 @@ What attributes need to be populated in AD for staff?
 
 What are the minimum attributes required to add a person into Dynamics?
 
-How do Eventbrite registrations/attendances (etc.) get written to Dynamics? How does the integration function when a registrant does/doesn’t exist in Dynamics?
-
 Can we search and report from the ‘activity feed’ (aka. Notes in ChilliDB)?
 What Dynamics APIs and other integrations currently in use by Murray (or Darling Downs)?
 How do we transfer our existing relationship history, notes, event attendances, file attachments etc?

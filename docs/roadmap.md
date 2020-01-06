@@ -27,4 +27,4 @@ Profile Management Portal: Allows external contacts/accounts to update their inf
 
 Project Management 
 
-Event Management (including custom integration with EventBrite)
+Event Management (including integration with EventBrite)

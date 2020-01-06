@@ -10,17 +10,8 @@ nav:
 - Overview: 'overview.md'
 - FAQ: 'faq.md'
 - Components: 'components.md'
-- Training:
-    - Basic: 'training/basic.md'
-    - Advanced: 'training/advanced.md'
-- Dynamics 365 App for Outlook:
-    - Overview: 'app-for-outlook/overview.md'
-    - Activity Tracking: 'app-for-outlook/activity-tracking.md'
-    - Tracking Emails: 'app-for-outlook/tracking-emails.md'
-    - Tracking Appointments: 'app-for-outlook/tracking-appointments.md'
-    - Tracking Calls: 'app-for-outlook/tracking-calls.md'
-    - Tracking Tasks: 'app-for-outlook/tracking-tasks.md'
-    - Troubleshooting: 'app-for-outlook/troubleshooting.md'
+- Training: 'training.md'
+- Dynamics 365 App for Outlook: 'app-for-outlook.md'
 - Entities: 
     - Account: 'entities/account.md'
     - Activity Category: 'entities/activity-category.md'
@@ -51,6 +42,7 @@ nav:
     - Auditing: 'settings/auditing.md'
     - Duplication Detection: 'settings/duplicate-detection.md'
     - Timezones: 'settings/timezones.md'
+- Customization: 'customization.md'
 - Roadmap: 'roadmap.md'
 - Versioning: 'versioning.md'
 
