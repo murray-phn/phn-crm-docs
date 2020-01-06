@@ -11,45 +11,45 @@ Append To =
 Assign = Can make another User the Owner of a record
 
 The example below shows the 'Team Member' security role. This means that any User given the 'Team Member' role can do anything to Account records except delete them permanently (they can still deactivate them). 
-<img src="img/sec-roles-example.png" />
+<img src="../img/sec-roles-example.png" />
 
 # Security Roles
 
 See below the list of Security Roles.
 
-#### Administrator
+### Administrator
 **Notes:** Delete
 
 **User Settings:** Create, Read, Write, Delete, Append To
 
 **Activity Category:** Delete, Assign
 
-#### Controlled Documents
+### Controlled Documents
 **Controlled Documents:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### CPRA
+### CPRA
 **CPRA:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### Data Dictionary
+### Data Dictionary
 **Definition:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### Devices
+### Devices
 **Device, Device Allocation:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### Dynamics 365 App for Outlook User
+### Dynamics 365 App for Outlook User
 
 This Security Role is provided by Microsoft. It enables a User to use the 'Dynamics 365 App for Outlook'.
 
-#### Legislation
+### Legislation
 **Legislation, Legislative Body:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### Risks
+### Risks
 **Risk, Risk Action:** Create, Write, Delete (if record owner), Append, Append To, Assign
 
-#### Software
+### Software
 **Software, Software Allocation:** Create, Write, Delete (if record owner), Append, Append To, Assign (if record owner)
 
-#### User Management
+### User Management
 **User:** Write, Append, Append To
 
 **User Settings:** Read, Write, Append To
@@ -61,7 +61,7 @@ Assign position for a user
 Enable or Disable User
 Reparent user
 
-#### Team Member
+### Team Member
 **Account:** Create, Read, Write, Append, Append To, Assign (if record owner)
 
 **Contact**: Create, Read, Write, Append, Append To, Assign
