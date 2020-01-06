@@ -38,6 +38,7 @@ nav:
     - Software Allocation: 'entities/software-allocation.md'
     - Task: 'entities/task.md'
     - User: 'entities/user.md'
+- Security Roles: 'sec-roles.md'
 - Settings: 
     - Auditing: 'settings/auditing.md'
     - Duplicate Detection: 'settings/duplicate-detection.md'
