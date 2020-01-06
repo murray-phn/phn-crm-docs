@@ -14,7 +14,6 @@ The 'PHN in a Box' is comprised of these core components:
 
 The GP profile is a minimum dataset detailing each of the practices your PHN manages. Whilst it is not possible (or smart!) to gather all of the information required, the fields that the profile comprises of were developed in a joint effort between our practice coordinators and our executive the profile is intended to be updated regularly over time. If you believe additional fields are required, please talk with your manager who can inform the development team.
 
-
 [Video Preview](https://youtu.be/P8YCFshdRaY) (2 minutes)
 
 ## Enterprise-wide Risk Framework (EwR)
@@ -40,15 +39,25 @@ Devices and Software, including allocations and licenses.
 Included in the 'PHN in a Box' are the following geographical boundaries:
 
 - STE (States)
+
 - SSC (Suburbs)
+
 - POA (Postcode)
+
 - PHNs
+
 - SA4 (Statistical Area Level 4)
+
 - SA3 (Statistical Area Level 3)
+
 - SA2 (Statistical Area Level 2)
+
 - SA1 (Statistical Area Level 1)
+
 - LGA (Local Government Area)
+
 - CED (Commonwealth Election Division)
+
 - SED (State Electoral Division)
 
 The physical boundaries of each area of each type are visible in CRM on an interactive map.
