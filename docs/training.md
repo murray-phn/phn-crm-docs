@@ -12,6 +12,8 @@
 
 [Working with Records](https://crmbook.powerobjects.com/basics/searching-and-navigation/working-with-records/)
 
+[Filtering and Searching](https://crmbook.powerobjects.com/basics/searching-and-navigation/searching-crm/)
+
 ## Advanced
 
 [How to use Advanced Find as a Reporting Tool](https://crmbook.powerobjects.com/basics/analytics/advanced-find-as-a-reporting-tool/)
