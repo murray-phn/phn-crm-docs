@@ -9,9 +9,9 @@ nav:
 - Home: 'index.md'
 - Overview: 'overview.md'
 - FAQ: 'faq.md'
-- Components: 'components.md'
 - Training: 'training.md'
 - Dynamics 365 App for Outlook: 'app-for-outlook.md'
+- Components: 'components.md'
 - Entities: 
     - Account: 'entities/account.md'
     - Activity Category: 'entities/activity-category.md'
@@ -40,7 +40,7 @@ nav:
     - User: 'entities/user.md'
 - Settings: 
     - Auditing: 'settings/auditing.md'
-    - Duplication Detection: 'settings/duplicate-detection.md'
+    - Duplicate Detection: 'settings/duplicate-detection.md'
     - Timezones: 'settings/timezones.md'
 - Customization: 'customization.md'
 - Roadmap: 'roadmap.md'

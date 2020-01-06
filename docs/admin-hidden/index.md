@@ -1,3 +1,3 @@
 # Administration
 
-[Dynamics 365 App for Outlook Setup]('/admin-hidden/d365-for-outlook.md')
+[Dynamics 365 App for Outlook Setup]('/d365-for-outlook.md')

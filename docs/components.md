@@ -15,7 +15,7 @@ The 'PHN in a Box' is comprised of these core components:
 The GP profile is a minimum dataset detailing each of the practices your PHN manages. Whilst it is not possible (or smart!) to gather all of the information required, the fields that the profile comprises of were developed in a joint effort between our practice coordinators and our executive the profile is intended to be updated regularly over time. If you believe additional fields are required, please talk with your manager who can inform the development team.
 
 
-To watch a brief preview video (1min 30 secs) [CLICK HERE](https://youtu.be/P8YCFshdRaY).
+[Video Preview](https://youtu.be/P8YCFshdRaY) (2 minutes)
 
 ## Enterprise-wide Risk Framework (EwR)
 
